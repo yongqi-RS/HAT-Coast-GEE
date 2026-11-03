@@ -28,4 +28,4 @@ For the final persistent-water map:
 
 ## Citation
 
-If you use these functions, please cite the associated HAT-Coast manuscript.
+Yongqi Sun, Neil Saintilan, Senlei Hou, Yanjun Tian, Xieraili Aierken, Yongnian Gao*. HAT-Coast: A multi-source hierarchical adaptive thresholding framework for biennial global mainland shoreline mapping from 2000 to 2020. ISPRS Journal of Photogrammetry and Remote Sensing, 2027, 243P1, 1005-1027.
